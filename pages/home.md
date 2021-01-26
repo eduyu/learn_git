@@ -1,20 +1,10 @@
-# 대문 화면
+# Welcome to 5ss2
+- IM 취득!
 
 ## Hello, World
+안녕하세요!
 
-### This is 5ss2!
-
-
-```
-$ git switch (checkout) <branch-name>
-$ git switch -c <branch-name>
-$ git branch <branch-name>
-$ git branch -d <branch-name>
-$ git merge <branch-name>
-$ git reflog
-```
-```
-HEAD
-master
-other-branch
-```
+### This is 5ss2!!
+- 디스코드
+- 노션
+- 구글 시트
